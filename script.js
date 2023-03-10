@@ -1,1 +1,4 @@
-//your JS code here. If required.
+function createTable() {
+    //Write your code here
+  
+}
